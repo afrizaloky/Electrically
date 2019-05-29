@@ -1,0 +1,60 @@
+{
+    "menu": [{
+            "kategori": "Device",
+            "nama": "Arduino UNO",
+            "deskripsi": "",
+            "harga": "70.000",
+            "gambar": "uno.jpg"
+        },
+        {
+            "kategori": "Device",
+            "nama": "Arduino Nano",
+            "deskripsi": "",
+            "harga": "40.000",
+            "gambar": "nano.jpg"
+        },
+        {
+            "kategori": "Sensor",
+            "nama": "HC-05",
+            "deskripsi": "",
+            "harga": "60.000",
+            "gambar": "hc05.jpg"
+        },
+        {
+            "kategori": "Other",
+            "nama": "LCD 16x2",
+            "deskripsi": "",
+            "harga": "22.000",
+            "gambar": "lcd.jpg"
+        },
+        {
+            "kategori": "Sensor",
+            "nama": "LM2596",
+            "deskripsi": "",
+            "harga": "15.000",
+            "gambar": "LM2596.jpg"
+        },
+        {
+            "kategori": "Other",
+            "nama": "Jumper",
+            "deskripsi": "",
+            "harga": "20.000",
+            "gambar": "jumper2.jpg"
+        },
+        {
+            "kategori": "Other",
+            "nama": "Pin Header",
+            "deskripsi": "",
+            "harga": "1.500",
+            "gambar": "pinh.jpg"
+        },
+        {
+            "kategori": "Other",
+            "nama": "Breadboard",
+            "deskripsi": "",
+            "harga": "20.000",
+            "gambar": "breadboard.jpg"
+        }
+
+    ]
+}
